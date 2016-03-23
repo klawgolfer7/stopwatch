@@ -1,0 +1,19 @@
+/* Styles go here*/
+
+body {
+	background-color: #F1F1F1;
+	color: #333;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;	
+}
+
+.stopwatch {
+	text-align: center;
+}
+
+.stopwatch span {
+	font-size: 128px;
+}
+
+.stopwatch button {
+	font-size: 32px;
+}
